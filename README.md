@@ -1,2 +1,4 @@
 # attribute-weighted-curvature
 The Paradoxical Vulnerability of Attribute-Weighted Curvature in Network Neuroscience
+
+Network-analytic methods are increasingly central to cognitive neuroscience and cognitive science, from structural and functional connectivity to psychometric and social-cognitive networks. Across these applications, node attributes are rarely independent: trait intercorrelations, demographic confounding, and shared measurement structure are the rule, not the exception. We audit how attribute--attribute correlation propagates through four distinct layers of the network-analytic pipeline --- homophily inference, topology-derived curvature summaries, attribute-weighted curvature metrics, and edge-level null-hypothesis testing --- using a common dyadic-independent data-generating process and Monte-Carlo simulation. 
